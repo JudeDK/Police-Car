@@ -8,7 +8,7 @@ I want to make a police car that I can control from my phone. The car will be a 
 ## Hardware Design
 # Block Diagram
 
-![IMG1](imagini/diagramabloc.png)
+![IMG1](imag/diagramabloc.png)
 
 # Materials
 * Motor Driver L298
