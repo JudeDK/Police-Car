@@ -2,13 +2,16 @@
 
 ## Description
 
-I want to make a police car that I can control from my phone. The car will be a 4-wheeler, it will have headlights and police lights (represented by different colored LEDs), a buzzer for the police sound. The car will be able to move using the phone, from where we can also choose the "mission" mode in which the police lights turn on, as well as the buzzer.
+I want to make a police car that I can control from my phone. The car will be a 3-wheeler, it will have headlights and police lights (represented by different colored LEDs), a buzzer for the police sound. The car will be able to move using the phone, from where we can also choose the "mission" mode in which the police lights turn on, as well as the buzzer.
 
 
 ## Hardware Design
 # Block Diagram
 
 ![IMG1](imag/diagramabloc.png)
+![IMG1](imag/imag1.png)
+![IMG1](imag/imag2.png)
+![IMG1](imag/imag3.png)
 
 # Materials
 * Motor Driver L298
